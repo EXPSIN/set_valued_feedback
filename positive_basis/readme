@@ -1,1 +1,5 @@
-test
+By running the main file, we can generate the desired positive basis vectors.
+
+## Usage
+- Run the main file to generate the positive basis.
+- The generated basis will be used by the controller.
